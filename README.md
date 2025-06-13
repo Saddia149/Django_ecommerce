@@ -19,7 +19,7 @@ Backend: Django (Python)
 
 Frontend: HTML, CSS, Bootstrap 5, JavaScript, FontAwesome
 
-Database: PostgreSQL / SQLite
+Database: MySQL
 
 Libraries & Integrations:
 
