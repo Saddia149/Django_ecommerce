@@ -41,11 +41,9 @@ git clone https://github.com/Saddia149/Django_ecommerce.git
 cd e-commerce-platform
 ### 2️⃣ Run Migrations
 
- bash: 
 python manage.py migrate
 ### 3️⃣ Start the Server
 
- bash: 
 python manage.py runserver
 ### 4️⃣ Access the Project Open your browser and go to:
 
