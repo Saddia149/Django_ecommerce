@@ -1,7 +1,7 @@
 # E-Commerce Platform
 An interactive, feature-rich e-commerce platform built using Django with a modern UI theme, offering a seamless shopping experience, real-time chat, and structured order management.
 
- ## Table of Contents
+ ## Features
 User Authentication → Sign-up, login, & role-based access (buyer/seller).
 
 Product Listings → Organized categories, dynamic filtering, & search.
@@ -36,16 +36,16 @@ Tawk.to Live Chat Support
  ## How to Run This Project
 ### 1️⃣ Clone the Repository
 
- bash
+ bash: 
 git clone <repo-url>
 cd e-commerce-platform
 ### 2️⃣ Run Migrations
 
- bash
+ bash: 
 python manage.py migrate
 ### 3️⃣ Start the Server
 
- bash
+ bash: 
 python manage.py runserver
 ### 4️⃣ Access the Project Open your browser and go to:
 
