@@ -1,7 +1,7 @@
-E-Commerce Platform
+# E-Commerce Platform
 An interactive, feature-rich e-commerce platform built using Django with a modern UI theme, offering a seamless shopping experience, real-time chat, and structured order management.
 
- Features
+ ## Table of Contents
 User Authentication → Sign-up, login, & role-based access (buyer/seller).
 
 Product Listings → Organized categories, dynamic filtering, & search.
@@ -14,7 +14,7 @@ Real-time Chat Support → Integrated WhatsApp & Tawk.to chat.
 
 Interactive UI & Theme → Sleek, modern design powered by Bootstrap 5 & CSS3 animations.
 
- Technologies Used
+## Technologies Used
 Backend: Django (Python)
 
 Frontend: HTML, CSS, Bootstrap 5, JavaScript, FontAwesome
@@ -33,7 +33,7 @@ WhatsApp Chat Integration
 
 Tawk.to Live Chat Support
 
- How to Run This Project
+ ## How to Run This Project
 1️⃣ Clone the Repository
 
 bash
