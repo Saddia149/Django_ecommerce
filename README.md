@@ -35,9 +35,9 @@ Tawk.to Live Chat Support
 
  ## How to Run This Project
 ### 1️⃣ Clone the Repository
+git clone https://github.com/Saddia149/Django_ecommerce.git
 
- bash: 
-git clone <repo-url>
+ Move into folder: 
 cd e-commerce-platform
 ### 2️⃣ Run Migrations
 
