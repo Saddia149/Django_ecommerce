@@ -34,19 +34,19 @@ WhatsApp Chat Integration
 Tawk.to Live Chat Support
 
  ## How to Run This Project
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
-### bash
+ bash
 git clone <repo-url>
 cd e-commerce-platform
-2️⃣ Run Migrations
+### 2️⃣ Run Migrations
 
-### bash
+ bash
 python manage.py migrate
-3️⃣ Start the Server
+### 3️⃣ Start the Server
 
-### bash
+ bash
 python manage.py runserver
-4️⃣ Access the Project Open your browser and go to:
+### 4️⃣ Access the Project Open your browser and go to:
 
 http://127.0.0.1:8000/
